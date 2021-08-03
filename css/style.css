@@ -1,0 +1,14 @@
+body{
+    background-color: blueviolet
+ }
+
+.bg-image{
+    background-image:url("../images/calculator\ img.jpg");
+    height: 100vh;
+    filter: blur(2px);
+    -webkit-filter:blur(2px);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
